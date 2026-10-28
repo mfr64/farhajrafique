@@ -1,5 +1,11 @@
 // ---------- data: real projects from resume ----------
 const PROJECTS = [
+ {
+    domain: "alsheikhfurniture.com",
+    name: "AlSheikh Furniture",
+    desc: "Custom Furniture service — WooCommerce store with a custom quote & pricing flow.",
+    url: "https://alsheikhfurniture.com/"
+  },
   {
     domain: "dstdigitizing.com",
     name: "DST Digitizing",
