@@ -18,6 +18,12 @@ const PROJECTS = [
     desc: "Sister site for the same embroidery digitizing business, with its own quote page.",
     url: "https://dstdigitizing.net"
   },
+ {
+    domain: "noortechhub.ae",
+    name: "Noor Tech Hub",
+    desc: "Online Laptop Selling Website — WooCommerce store setup with multiple products listing & pricing flow.",
+    url: "https://noortechhub.ae/"
+  },
   {
     domain: "proficientdigitizing.com",
     name: "Proficient Digitizing",
