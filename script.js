@@ -1,10 +1,28 @@
 // ---------- data: real projects from resume ----------
 const PROJECTS = [
  {
+    domain: "kingcars.com.au",
+    name: "King Cars",
+    desc: "Automotive dealership site for the Australian market.",
+    url: "https://kingcars.com.au"
+  },
+ {
+    domain: "metsole.com",
+    name: "Metsole",
+    desc: "Digital Services providers like Web Development, SEO, and Google Ads, etc.",
+    url: "https://metsole.com"
+  },
+ {
     domain: "alsheikhfurniture.com",
     name: "AlSheikh Furniture",
     desc: "Custom Furniture service — WooCommerce store with a custom quote & pricing flow.",
     url: "https://alsheikhfurniture.com/"
+  },
+ {
+    domain: "noortechhub.ae",
+    name: "Noor Tech Hub",
+    desc: "Online Laptop Selling Website — WooCommerce store setup with multiple products listing & pricing flow.",
+    url: "https://noortechhub.ae/"
   },
   {
     domain: "dstdigitizing.com",
@@ -19,10 +37,10 @@ const PROJECTS = [
     url: "https://dstdigitizing.net"
   },
  {
-    domain: "noortechhub.ae",
-    name: "Noor Tech Hub",
-    desc: "Online Laptop Selling Website — WooCommerce store setup with multiple products listing & pricing flow.",
-    url: "https://noortechhub.ae/"
+    domain: "pinkslipexpress.com.au",
+    name: "Pink Slip Express",
+    desc: "Vehicle inspection / pink slip service site for the Australian market.",
+    url: "https://pinkslipexpress.com.au"
   },
   {
     domain: "proficientdigitizing.com",
@@ -30,28 +48,18 @@ const PROJECTS = [
     desc: "Digitizing services site built and customized on WordPress.",
     url: "https://proficientdigitizing.com"
   },
-  {
-    domain: "pinkslipexpress.com.au",
-    name: "Pink Slip Express",
-    desc: "Vehicle inspection / pink slip service site for the Australian market.",
-    url: "https://pinkslipexpress.com.au"
-  },
+  
   {
     domain: "guelphcarpetcleaning.com",
     name: "Guelph Carpet Cleaning",
     desc: "Local service business site built for local search visibility in Guelph, Canada.",
     url: "https://guelphcarpetcleaning.com"
   },
-  {
-    domain: "kingcars.com.au",
-    name: "King Cars",
-    desc: "Automotive dealership site for the Australian market.",
-    url: "https://kingcars.com.au"
-  },
+  
   {
     domain: "ftautohaus.com.au",
     name: "FT Autohaus",
-    desc: "Auto dealership / workshop site with service and inventory sections.",
+    desc: "Auto dealership/workshop site with service and inventory sections.",
     url: "https://ftautohaus.com.au"
   }
 ];
